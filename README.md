@@ -1,2 +1,5 @@
 # CSC-124
-Insertion and Merge Sort Implementation in Python
+Insertion and Merge Sort Algortihm Implementation in Python
+
+Ignore new.py
+Solution is in sort.py file
